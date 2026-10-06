@@ -1,0 +1,6 @@
+{
+  "name": "YouTube AI Agent Studio",
+  "description": "All-in-one AI agent for YouTube creators: viral scriptwriting, video breakdown, title & thumbnail ideation, SEO optimization, and channel strategist in Hindi & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
